@@ -1,2 +1,2 @@
 # hipster-shop
-Hipster shop helm chart
+Hipster shop helm chart for demo
